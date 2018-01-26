@@ -1,6 +1,5 @@
 
 # terminal
-
 export CLICOLOR=1
 
 export LSCOLORS=Cxfxexdxbxegedabagacad
@@ -34,7 +33,6 @@ alias lsa='ls -a'
 alias lsl='ls -l'
 
 # git
-
 alias gstat='git status'
 alias gadd='git add -A'
 alias gcom='git commit -m'
