@@ -80,7 +80,7 @@ parse_git_branch() {
 }
 
 #PATH VARIABLES
-PATH=$PATH:/Users/donaldallen/Documents/SCRIPTS
+PATH=$PATH:/Users/<USER>/Documents/SCRIPTS
 
 
 
